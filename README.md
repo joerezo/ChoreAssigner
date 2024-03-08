@@ -1,6 +1,10 @@
 # ChoreAssigner
 Desktop Application which randomizes chores and allows for entering rewards which can be completed once they are done.
 
+
+https://github.com/joerezo/ChoreAssigner/assets/50391987/5e352b9f-8854-4eed-9fa2-c61e7362fd79
+
+
 Applicable uses:
 
 ### The Problem:
